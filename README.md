@@ -1,3 +1,4 @@
-Calculadora de IMC (Índice de massa corporal) Utilizando o freamwork React. 
+# Calculadora de IMC (Índice de massa corporal)
 
-Foi utilizado a funcionalidade Use State.
+
+Foi utilizado o Hook useState.
